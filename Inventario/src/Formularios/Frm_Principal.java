@@ -61,7 +61,7 @@ public class Frm_Principal extends javax.swing.JFrame {
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
         jLabel2.setText("Sistema de Inventario");
-        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 70, -1, -1));
+        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 50, -1, -1));
 
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/umg2.png"))); // NOI18N
@@ -69,8 +69,8 @@ public class Frm_Principal extends javax.swing.JFrame {
 
         txt_menu.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         txt_menu.setForeground(new java.awt.Color(255, 255, 255));
-        txt_menu.setText("MENU PRINCIPAL");
-        jPanel1.add(txt_menu, new org.netbeans.lib.awtextra.AbsoluteConstraints(680, 20, -1, -1));
+        txt_menu.setText("Pablo Arturo Lopez Paiz  0901-19-2375");
+        jPanel1.add(txt_menu, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 10, -1, -1));
 
         jButton1.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/paquete.png"))); // NOI18N
